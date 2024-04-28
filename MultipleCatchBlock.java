@@ -1,4 +1,5 @@
 import java.lang.Exception;
+
 public class MultipleCatchBlock {
 
     public static void main(String[] args) {
